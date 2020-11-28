@@ -1,0 +1,49 @@
+/* Tablet Version */
+/* Header */
+@media only screen and (max-width: 800px) {
+    .nav-section, .container, .logo-section, .menu-section, .hero, .button, .btn, .btnt {
+        position: static;
+    }
+}
+/* Main Part One  */
+@media only screen and (max-width: 800px) {
+    .main_part_one, .container, .phone_box, .phone_img, .add_box, .add_box_container, .add_one, .add_two, .add_three, .add_four {
+        position: static;
+    }
+}
+/* Main Part Two */
+@media only screen and (max-width: 800px) {
+    .main_part_two, .container, .text_part, .download, .menu_part, .part_one, .part_two, .part_three, .part_four {
+        position: static;
+    }
+}
+/* Main Part Three */
+@media only screen and (max-width: 800px) {
+    .main_part_three, .container, .illustration, .information {
+        position: static;
+    }
+}
+/* Main Part Four */
+@media only screen and (max-width: 800px) {
+    .main_part_four, .container, .smartphone, .information_two, .app_button {
+        position: static;
+    }
+}
+/* Info & Subscribe */
+@media only screen and (max-width: 800px) {
+    .info_part, .info_section, .container, .container_four, .subscribe {
+        position: static;
+    }
+}
+/* Footer */
+@media only screen and (max-width: 800px) {
+    .container, .copyright, .fb, .twit, .driv, .goog, .you {
+        position: static;
+    }
+}
+/* Global Tag */
+@media only screen and (max-width: 800px) {
+    header, section, footer {
+        position: static;
+    }
+}
